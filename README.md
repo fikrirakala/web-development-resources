@@ -13,3 +13,4 @@
 - [Git](https://git-scm.com/)
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitKraken](https://www.gitkraken.com/) - Git GUI
+- [Git cheat sheet](https://cdn.fs.teachablecdn.com/O3sHNsAnSARDUwO28Jp3)
