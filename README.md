@@ -5,6 +5,7 @@
 - [Codepen](https://codepen.io/)
 - [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
 - [Command line cheat sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+- [Git](https://git-scm.com/)
 
 ## Markdown
 - [Markdown guide](https://www.markdownguide.org/)
