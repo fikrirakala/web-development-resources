@@ -8,6 +8,7 @@
 - [Git](https://git-scm.com/)
 - [Markdown guide](https://www.markdownguide.org/)
 - [Markdown cheat sheet](https://markdown-it.github.io/)
+- [VSCode cheat sheet](https://drive.google.com/file/d/1eTyZOZidPKD1lkJ1fC2N067pOtt58XEU/view)
 
 ## Git
 - [Git](https://git-scm.com/)
