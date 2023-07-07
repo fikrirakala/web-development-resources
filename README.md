@@ -15,3 +15,6 @@
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitKraken](https://www.gitkraken.com/) - Git GUI
 - [Git cheat sheet](https://cdn.fs.teachablecdn.com/O3sHNsAnSARDUwO28Jp3)
+
+## JavaScript
+- [Advanced JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/?utm_source=udemy&utm_medium=coursecontent)
