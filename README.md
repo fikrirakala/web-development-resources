@@ -20,4 +20,4 @@
 - [Advanced JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/?utm_source=udemy&utm_medium=coursecontent)
 
 ## React
-- [React](https://react.dev/)
+- [React Documentation](https://react.dev/)
