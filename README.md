@@ -21,3 +21,7 @@
 
 ## React
 - [React Documentation](https://react.dev/)
+
+## Tailwind
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Material Tailwind](https://www.material-tailwind.com/)
