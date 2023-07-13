@@ -22,6 +22,7 @@
 
 ## React
 - [React Documentation](https://react.dev/)
+- [sadcn ui component library](https://ui.shadcn.com/)
 
 ## Tailwind
 - [Tailwind CSS](https://tailwindcss.com/)
