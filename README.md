@@ -23,6 +23,7 @@
 ## React
 - [React Documentation](https://react.dev/)
 - [sadcn ui component library](https://ui.shadcn.com/)
+- [Framer Motion](https://github.com/framer/motion) - Animation library for React
 
 ## Tailwind
 - [Tailwind CSS](https://tailwindcss.com/)
