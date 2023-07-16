@@ -28,3 +28,6 @@
 ## Tailwind
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Material Tailwind](https://www.material-tailwind.com/)
+
+## Astro
+- [Astro UI Framework Full Book](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
