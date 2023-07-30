@@ -32,3 +32,7 @@
 
 ## Astro
 - [Astro UI Framework Full Book](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
+
+## JavaScript Animation
+- [Motion One](https://motion.dev/)
+- [GSAP](https://greensock.com/gsap/)
