@@ -29,6 +29,7 @@
 - [React Router](https://reactrouter.com/en/main)
 - [Redux](https://redux.js.org/)
 - [Next.js](https://nextjs.org/)
+- [React Query](https://tanstack.com/query/v3/)
 
 ## Tailwind
 - [Tailwind CSS](https://tailwindcss.com/)
