@@ -28,6 +28,7 @@
 - [Framer Motion](https://github.com/framer/motion) - Animation library for React
 - [React Router](https://reactrouter.com/en/main)
 - [Redux](https://redux.js.org/)
+- [Next.js](https://nextjs.org/)
 
 ## Tailwind
 - [Tailwind CSS](https://tailwindcss.com/)
