@@ -30,6 +30,12 @@
 - [Redux](https://redux.js.org/)
 - [Next.js](https://nextjs.org/)
 - [React Query](https://tanstack.com/query/v3/)
+- [Formik](https://formik.org/)
+- [React Hook Form](https://www.react-hook-form.com/)
+- [Vitest](https://vitest.dev/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Playwright](https://playwright.dev/)
+- [Styled components](https://styled-components.com/)
 
 ## Tailwind
 - [Tailwind CSS](https://tailwindcss.com/)
