@@ -26,6 +26,7 @@
 - [shadcn ui](https://ui.shadcn.com/) - React component library
 - [Framer Motion](https://github.com/framer/motion) - Animation library for React
 - [React Router](https://reactrouter.com/en/main)
+- [Redux](https://redux.js.org/)
 
 ## Tailwind
 - [Tailwind CSS](https://tailwindcss.com/)
