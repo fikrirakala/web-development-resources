@@ -47,3 +47,7 @@
 ## JavaScript Animation
 - [Motion One](https://motion.dev/)
 - [GSAP](https://greensock.com/gsap/)
+
+## Freelancing
+- [Fiverr](https://www.fiverr.com/)
+- [Upwork](https://www.upwork.com/)
