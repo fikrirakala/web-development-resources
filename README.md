@@ -47,6 +47,7 @@
 ## JavaScript Animation
 - [Motion One](https://motion.dev/)
 - [GSAP](https://greensock.com/gsap/)
+- [AOS](https://michalsnik.github.io/aos/)
 
 ## Freelancing
 - [Fiverr](https://www.fiverr.com/)
