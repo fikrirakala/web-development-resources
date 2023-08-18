@@ -24,6 +24,7 @@
 
 ## React
 - [React Documentation](https://react.dev/)
+- [Radix](https://www.radix-ui.com/)
 - [shadcn ui](https://ui.shadcn.com/) - React component library
 - [Framer Motion](https://github.com/framer/motion) - Animation library for React
 - [React Router](https://reactrouter.com/en/main)
